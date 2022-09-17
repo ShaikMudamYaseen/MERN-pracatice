@@ -1,0 +1,10 @@
+1.Remove a document based on objectId
+    Query:db.books.deleteOne( { "_id" : ObjectId("627a54cbee0f5b051bc680fe") } );
+2.Update a document based on objectId
+    Query:db.books.updateOne( { "_id" : ObjectId("627a549eee0f5b051bc680fc") },{$set:{"bookName":"React"}} );
+3.Get a book by its name
+    Query:db.books.find({"bookName":"React"})
+4.Get all books with a price greater than 500
+    Query:db.books.find( { "price": { $gt: 500 } } )
+5.Get all books with a specific author
+    Query:db.books.find({"bookAuthor":"Known"})

@@ -1,0 +1,19 @@
+{
+  "name": "http-practice",
+  "version": "1.0.0",
+  "description": "### Instructions Refer the PROBLEM.md file for the problem description.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab-wipro.stackroute.in:2225/mudmyaseen/node-http-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0"
+  }
+}

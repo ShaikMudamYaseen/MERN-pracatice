@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "627a543eee0f5b051bc680f8"
+  },
+  "bookName": "Python",
+  "bookAuthor": "abs",
+  "bookPrice": 300,
+  "bookPublisher": "Sunrise Printers"
+},{
+  "_id": {
+    "$oid": "627a5468ee0f5b051bc680fa"
+  },
+  "bookName": "Ruby",
+  "bookAuthor": "xyz",
+  "bookPrice": 500,
+  "bookPublisher": "Quantum Printers"
+},{
+  "_id": {
+    "$oid": "627a549eee0f5b051bc680fc"
+  },
+  "bookName": "React",
+  "bookAuthor": "Known",
+  "bookPrice": 600,
+  "bookPublisher": "The dominators"
+},{
+  "_id": {
+    "$oid": "627a54f4ee0f5b051bc68100"
+  },
+  "bookName": "C++",
+  "bookAuthor": "pqr",
+  "bookPrice": 300,
+  "bookPublisher": "The Riser Printers"
+},{
+  "_id": {
+    "$oid": "627a80dbee0f5b051bc68102"
+  },
+  "bookName": "Angular",
+  "bookAuthor": "Known",
+  "bookPrice": "600",
+  "bookPublisher": "The delimitor publishers"
+}]
